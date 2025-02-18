@@ -1,7 +1,12 @@
 ## Hi there 👋
 
-I am a skilled and enthusiastic programer, passionate about Cyber, Encryptions, Networks, and Operating Systems. <br/>
-I love learning and have a rich experience in C#, Java, Python, and Assembly. 
+I am a skilled and enthusiastic programer, passionate about cyber, encryptions, networks protocols, Linux and Windows OS. <br/><br/>
+I love learning and have a rich experience in C#, Java, Python, and Assembly. <br/><br/>
+I finished 5 units of Computer Science with grade 98. <br/><br/>
+I finished 5 units of English with grade 97. <br/><br/>
+I am expanding Computer Science elective to 10 units this year.  <br/><br/>
+In addition, I am learning 5 units of Mathematics, Physics (with a grade of 99 in Mechanics Examination). <br/><br/>
+I am also participating in an after-school elite cyber program for the past 3 years. 
 <!--
 **Noya-Vistuch/Noya-Vistuch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
